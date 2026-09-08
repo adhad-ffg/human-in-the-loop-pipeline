@@ -1,0 +1,20 @@
+# Environment variable file
+.Env
+
+# Python cache
+__Pycache__/
+*.Py[cod]
+*$py.class
+
+# Virtual environment
+.Venv/
+Venv/
+Env/
+
+# Editor settings
+.Vscode/
+.Idea/
+
+# OS generated file
+. DS_Store
+Thumbs.db
